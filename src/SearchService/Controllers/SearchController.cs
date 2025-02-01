@@ -62,6 +62,5 @@ namespace SearchService.Controllers
                 totalCount = result.TotalCount
             });
         }
-
     }
 }
